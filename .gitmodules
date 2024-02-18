@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/etrives/etrives.r-universe.dev
 	branch = HEAD
+[submodule "FastLZeroSpikeInference"]
+	path = FastLZeroSpikeInference
+	url = https://github.com/jewellsean/FastLZeroSpikeInference
+	registered = false
 [submodule "calipR"]
 	path = calipR
 	url = https://github.com/ETrives/calipR
