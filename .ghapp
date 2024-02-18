@@ -1,0 +1,10 @@
+{
+  "id": 47447241,
+  "created_at": "2024-02-18T11:53:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["calipR"]
+}
